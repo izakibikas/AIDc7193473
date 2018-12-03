@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+
+body {
+	padding-top: 36px;
+	font-family:'Montserrat',Arial,sans-serif
+}
+
+.navbar-brand {
+	font-family: 'Black And White Picture', sans-serif;
+	font-size: 2rem;
+}
+
+.site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.site-content {
+	flex: 1;
+}
+
+.card {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* Margins and Padding */
+
+.mb-20 {
+	margin-bottom: 20px;
+}
