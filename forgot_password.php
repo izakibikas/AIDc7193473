@@ -35,7 +35,7 @@ $recaptcha = new \ReCaptcha\ReCaptcha(RECAPTCHA_SECRET);
 				</form>
 				<hr>
 				<div class="text-center">
-					<p>An email will be sent to you with a link to reset your password.</p>
+					<p>An email will be sent to you with a link to reset your password. Please click on the link to reset your password.</p>
 				</div>
 			</div>
 		</div>
